@@ -28,7 +28,7 @@ Suitable for real-time IoT / edge deployment
 bash
 运行
 # Clone repo
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/514142/MIMF/tree/main
 cd your-repo
 
 # Install dependencies
